@@ -2,8 +2,9 @@
 <div  align="center">
    <a href="https://github.com/andarino">
   <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=andarino&show_icons=true&theme=dark&include_all_commits=true&count_private=true&text_color=48d359&title_color=48d359"/>
-   <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andarino&layout=compact&langs_count=7&theme=dark&text_color=48d359&title_color=48d359"/>
+   <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andarino&layout=compact&langs_count=7&theme=dark&text_color=48d359&title_color=48d359"/>
  </div>
+   
 <div align="center" style="display: inline_block"><br>
    <img align="center" alt="Rafa-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
    <img align="center" alt="Rafa-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
